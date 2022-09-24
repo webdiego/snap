@@ -27,7 +27,7 @@ flex flex-col justify-center items-center md:flex-row-reverse md:justify-between
             </div>
 
             <div className="hidden md:block mt-10">
-              <Button href={'/create'} />
+              <Button href={'/event'} />
             </div>
           </div>
 
@@ -38,7 +38,7 @@ flex flex-col justify-center items-center md:flex-row-reverse md:justify-between
           />
 
           <div className="mt-10 md:hidden">
-            <Button href={'/create'} />
+            <Button href={'/event'} />
           </div>
         </div>
       </div>

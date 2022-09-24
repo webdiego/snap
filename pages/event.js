@@ -1,7 +1,7 @@
 import Info from '@components/Info';
 import CalendarIcon from '@components/icons/calendar';
 import LocationIcon from '@components/icons/Location';
-export default function Create() {
+export default function Event() {
   return (
     <div className="bg-neutral-100 flex items-center justify-center min-h-screen">
       <div className="max-w-4xl md:px-10 mx-auto flex flex-col md:flex-row-reverse md:justify-between items-start md:gap-10 h-full">
